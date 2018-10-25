@@ -11,7 +11,7 @@ The tool could be maybe written in PowerShell where the databases for each emula
 
 An optional extra would be to enforce checksumming of ROMs, making rapid assumptions of ROM content based on their proximity to other well known ROMs, as well as generating custom configurations for putting on external drives or devices like Raspberry Pis. Stuff like Thumbnails, metadata etc should be sorted at the same time.
 
-Going further, it could be an idea to have it fill in gaps in sets by downloading missing files from archive.org, however this may be problematic from a legal standpoint. 
+Going further, it could be an idea to have it fill in gaps in sets by downloading missing files from archive.org or IPFS, however this may be problematic from a legal standpoint. 
 
 ## Demoscene downloader tool
 
