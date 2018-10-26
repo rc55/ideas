@@ -22,20 +22,24 @@ Version 2:
 - Disk space handling
 - Pattern matching downloading and extracting; like 
 
----
+```
+demo-get 0.0.l
+demo-get [options] command
 
-Potential command lines:
+Commands:
+update
+install
+remove
+check
+clean
+list
 
-v1 demo-get update			Downloads latest JSON file containing all productions and SHA256 checksums
+Options:
+-f --filter
+-d --download only
+-q --quiet
 
-v1 demo-get download    Requires argument:
-												all						All demos
-												new						New demos (defaults to last month)
-												
-												Optional:
-												--cache-only (cache without extracting)
-												
-v1 demo-get check				Audits cache folder so filename matches SHA256
+-h --help
+-v --version
 
-
-
+```
