@@ -26,3 +26,18 @@ demo-get --platform windows --all
 Supplemental metadata could be added to the package definition to hint if the production has compatibility issues (nvidia-only, ati-only, requires-dotnet46, requires-windows10, virus-prompt) etc.
 
 The metadata could be populated from demozoo and tags can be pushed back to demozoo to smooth things out.
+
+** What I'm actually doing **
+
+Working on a repository for the Scoop download tool.
+
+Scoop: https://github.com/lukesampson/scoop
+My demoscene repository: https://github.com/rc55/demoscene/
+
+So far done a few tests, seems okay so far - going to try and automate the process, optionally have a testing / stable repo.
+
+Todo:
+
+* Index the entire Demozoo JSON feed
+
+
