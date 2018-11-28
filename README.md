@@ -36,8 +36,3 @@ My demoscene repository: https://github.com/rc55/demoscene/
 
 So far done a few tests, seems okay so far - going to try and automate the process, optionally have a testing / stable repo.
 
-Todo:
-
-* Index the entire Demozoo JSON feed
-
-
